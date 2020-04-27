@@ -26,6 +26,8 @@
     NSLog(@"A 完成功能1");
     
     NSLog(@"A 完成功能2");
+    
+    NSLog(@"A 修复完BUG");
 }
 
 @end
