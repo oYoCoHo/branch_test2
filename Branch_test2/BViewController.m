@@ -27,4 +27,9 @@
     
     NSLog(@"b 修复完bug");
 }
+
+- (void)releaseBranch
+{
+    NSLog(@"B 修复完BUG");
+}
 @end
