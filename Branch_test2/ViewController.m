@@ -19,5 +19,8 @@
     // Do any additional setup after loading the view.
 }
 
-
+- (void)masterBranch
+{
+    NSLog(@"masterBranch 第一次");
+}
 @end
