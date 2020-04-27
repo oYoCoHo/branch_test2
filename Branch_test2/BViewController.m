@@ -24,5 +24,7 @@
     NSLog(@"B 完成功能1");
     
     NSLog(@"B 完成功能2");
+    
+    NSLog(@"b 修复完bug");
 }
 @end
