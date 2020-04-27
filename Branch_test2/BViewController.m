@@ -22,5 +22,7 @@
 - (void)developBranch
 {
     NSLog(@"B 完成功能1");
+    
+    NSLog(@"B 完成功能2");
 }
 @end
