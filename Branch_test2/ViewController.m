@@ -23,4 +23,9 @@
 {
     NSLog(@"masterBranch 第一次");
 }
+
+- (void)releaseBranch
+{
+    NSLog(@"releaseBranch 第一次");
+}
 @end
