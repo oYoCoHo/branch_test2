@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		7CD133712456ACA900B66DF4 /* BViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 7CD133702456ACA900B66DF4 /* BViewController.m */; };
 		E5F362C02456876D00B09E4F /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = E5F362BF2456876D00B09E4F /* AppDelegate.m */; };
 		E5F362C32456876D00B09E4F /* SceneDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = E5F362C22456876D00B09E4F /* SceneDelegate.m */; };
 		E5F362C62456876D00B09E4F /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = E5F362C52456876D00B09E4F /* ViewController.m */; };
@@ -37,6 +38,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		7CD1336F2456ACA900B66DF4 /* BViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = BViewController.h; sourceTree = "<group>"; };
+		7CD133702456ACA900B66DF4 /* BViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = BViewController.m; sourceTree = "<group>"; };
 		E5F362BB2456876D00B09E4F /* Branch_test2.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Branch_test2.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E5F362BE2456876D00B09E4F /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		E5F362BF2456876D00B09E4F /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -120,6 +123,8 @@
 				E5F362D02456877C00B09E4F /* main.m */,
 				E5F362F32456AC6600B09E4F /* AViewController.h */,
 				E5F362F42456AC6600B09E4F /* AViewController.m */,
+				7CD1336F2456ACA900B66DF4 /* BViewController.h */,
+				7CD133702456ACA900B66DF4 /* BViewController.m */,
 			);
 			path = Branch_test2;
 			sourceTree = "<group>";
@@ -276,6 +281,7 @@
 				E5F362F52456AC6600B09E4F /* AViewController.m in Sources */,
 				E5F362C02456876D00B09E4F /* AppDelegate.m in Sources */,
 				E5F362D12456877C00B09E4F /* main.m in Sources */,
+				7CD133712456ACA900B66DF4 /* BViewController.m in Sources */,
 				E5F362C32456876D00B09E4F /* SceneDelegate.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
