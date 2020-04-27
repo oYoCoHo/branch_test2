@@ -23,4 +23,9 @@
 {
     NSLog(@"masterBranch 第一次");
 }
+
+- (void)master_fix_Branch
+{
+    NSLog(@"master_fix 第一次");
+}
 @end
