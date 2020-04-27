@@ -30,4 +30,8 @@
     NSLog(@"A 修复完BUG");
 }
 
+- (void)releaseBranch
+{
+    NSLog(@"a 修复完bug");
+}
 @end
